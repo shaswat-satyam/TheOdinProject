@@ -4,6 +4,7 @@ This is a repository to contain all the various projects that I done while follo
 This includes projects with basic HTML, JS, Ruby and Ruby On Rails.
 
 The folder structure is as Follows
+``` bash
 .
 ├── HtmlCSS
 │   ├── LandingPage
@@ -50,3 +51,4 @@ The folder structure is as Follows
     ├── ruby_testing
     ├── stock_picker
     └── Tic-Tac-Toe-Ruby
+```
